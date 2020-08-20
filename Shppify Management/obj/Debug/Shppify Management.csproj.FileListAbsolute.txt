@@ -1,0 +1,11 @@
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\bin\Debug\Shppify Management.exe.config
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\bin\Debug\Shppify Management.exe
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\bin\Debug\Shppify Management.pdb
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\bin\Debug\ApplicationLogger.dll.config
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.csprojAssemblyReference.cache
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify_Management.Form1.resources
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify_Management.Properties.Resources.resources
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.csproj.GenerateResource.cache
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.csproj.CopyComplete
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.exe
+C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.pdb
