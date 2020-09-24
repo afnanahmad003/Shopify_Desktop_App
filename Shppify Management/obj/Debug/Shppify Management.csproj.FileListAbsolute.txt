@@ -9,3 +9,15 @@ C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Ma
 C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.csproj.CopyComplete
 C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.exe
 C:\Users\Sami\Desktop\Shppify Management\Shppify Management\obj\Debug\Shppify Management.pdb
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\bin\Debug\Shppify Management.exe.config
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\bin\Debug\Shppify Management.exe
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\bin\Debug\Shppify Management.pdb
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\bin\Debug\ApplicationLogger.dll.config
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.csprojAssemblyReference.cache
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify_Management.Form1.resources
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify_Management.Properties.Resources.resources
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.csproj.GenerateResource.cache
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.csproj.CoreCompileInputs.cache
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.csproj.CopyComplete
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.exe
+E:\codebase-freelancer\DevOps\Shopify_Desktop_App\Shppify Management\obj\Debug\Shppify Management.pdb
